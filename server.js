@@ -9,8 +9,8 @@ const CODIGO_NO_ENCONTRADO = 404;
 // Datos
 const notasDelCurso = [4.5, 3.5, 2.5, 4.0];
 const datosDelEquipo = {
-  equipo: 'Equipo NN',
-  integrantes: ['Andres Felipe Mendoza Milian'],
+  equipo: 'Trabajo individual',
+  integrantes: ['Roberto Osorio'],
 };
 
 // Lógica (no sabe nada de HTTP)
